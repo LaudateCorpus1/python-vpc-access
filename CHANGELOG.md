@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-vpc-access/compare/v1.2.1...v1.3.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#76](https://github.com/googleapis/python-vpc-access/issues/76)) ([ff52eb5](https://github.com/googleapis/python-vpc-access/commit/ff52eb59ead8c561e057d29d15b6592033b65258))
+
 ### [1.2.1](https://www.github.com/googleapis/python-vpc-access/compare/v1.2.0...v1.2.1) (2021-11-01)
 
 
